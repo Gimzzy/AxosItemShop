@@ -1,11 +1,11 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-      "itemGrants": ["AthenaDance:EID_KPopDance03"],
+      "itemGrants": ["AthenaDance:EID_TrophyCelebration"],
       "price": 0
   },
   "daily2": {
-      "itemGrants": ["AthenaCharacter:CID_328_Athena_Commando_F_Tennis"],
+      "itemGrants": ["AthenaCharacter:CID_432_Athena_Commando_M_BalloonHead"],
       "price": 0
   },
   "daily3": {
@@ -13,11 +13,11 @@
       "price": 0
   },
   "daily4": {
-      "itemGrants": ["AthenaDance:EID_CowboyDance"],
+      "itemGrants": ["AthenaDance:EID_OneArmFloss"],
       "price": 0
   },
   "daily5": {
-      "itemGrants": ["AthenaCharacter:CID_341_Athena_Commando_F_SkullBrite"],
+      "itemGrants": ["AthenaCharacter:CID_443_Athena_Commando_F_BannerB"],
       "price": 0
   },
   "daily6": {
@@ -25,11 +25,11 @@
       "price": 0
   },
   "featured1": {
-      "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+      "itemGrants": ["AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate"],
       "price": 0
   },
   "featured2": {
-      "itemGrants": ["AthenaCharacter:CID_313_Athena_Commando_M_KpopFashion"],
+      "itemGrants": ["AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"],
       "price": 0
   }
 }
