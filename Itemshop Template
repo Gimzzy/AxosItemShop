@@ -1,0 +1,35 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+      "itemGrants": ["AthenaDance:EID_KPopDance03"],
+      "price": 0
+  },
+  "daily2": {
+      "itemGrants": ["AthenaCharacter:CID_328_Athena_Commando_F_Tennis"],
+      "price": 0
+  },
+  "daily3": {
+      "itemGrants": ["AthenaPickaxe:Pickaxe_ID_190_GolfClub"],
+      "price": 0
+  },
+  "daily4": {
+      "itemGrants": ["AthenaDance:EID_CowboyDance"],
+      "price": 0
+  },
+  "daily5": {
+      "itemGrants": ["AthenaCharacter:CID_341_Athena_Commando_F_SkullBrite"],
+      "price": 0
+  },
+  "daily6": {
+      "itemGrants": ["AthenaPickaxe:Pickaxe_ID_082_SushiChef"],
+      "price": 0
+  },
+  "featured1": {
+      "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+      "price": 0
+  },
+  "featured2": {
+      "itemGrants": ["AthenaCharacter:CID_313_Athena_Commando_M_KpopFashion"],
+      "price": 0
+  }
+}
